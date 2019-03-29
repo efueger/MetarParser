@@ -94,3 +94,4 @@ Checkstyle configuration that checks the sun coding conventions.
     <property name="fileNamePattern" value="Test\.java$"/>
   </module>
 </module>
+
