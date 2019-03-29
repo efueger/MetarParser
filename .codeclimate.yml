@@ -37,7 +37,7 @@ plugins:
     config:
       file: "checkstyle.xml"
   pmd:
-    enabled: true
+    enabled: false
   sonar-java:
     enabled: true
     config:
