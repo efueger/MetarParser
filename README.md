@@ -176,3 +176,4 @@ To change the locale use the method `setLocale(Locale)` of the class `Messages.j
 Messages.getInstance().setLocale(Locale.FRENCH); // Changes the locale to french.
 ```
 If you are willing to add a new locale please see [Contributing.md file](CONTRIBUTING.md).
+
